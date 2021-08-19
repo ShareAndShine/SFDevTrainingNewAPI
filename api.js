@@ -4,4 +4,4 @@ const newsurl = `https://newsapi.org/v2/top-headlines?country=in&apiKey=${apikey
 export {apikey, newsurl};
 
 // console.log(apiKey);
-// console.log(newsurl);
+
